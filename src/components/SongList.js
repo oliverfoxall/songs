@@ -22,7 +22,7 @@ class SongList extends React.Component {
                           <button className='button' onClick={() => {
                               this.props.selectSong(song);
                           }}>
-                              Select
+                              Select Detail
                           </button>
                       </div>
                   </div>
